@@ -5,6 +5,6 @@ tags: [machine learning, keras, deep learning, regression, supervised learning]
 author_profile: true 
 ---
 
-# Keras Deep Learning Regression Model
+## Keras Deep Learning Regression Model
 
-## Predicting Concrete Strength
+Predicting Concrete Strength
