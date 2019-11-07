@@ -1,7 +1,13 @@
+---
+title: "Predicting Concrete Strength: Part 1"
+category: [project]
+tags: [machine learning, keras, deep learning, regression, supervised learning]
+author_profile: true 
+---
 
 <h2><center> Building a Concrete Compressive Strength Model using Deep Learning Keras Library </center></h2>
 
-<img src = "\assets\images\concrete-strength-keras\tf-keras.png" width = 500>
+<img src = "/assets/images/concrete-strength-keras/tf-keras.png" width = 500>
 
 <strong>The dataset is about the compressive strength of different samples of concrete based on the volumes of the different ingredients that were used to make them.</strong>
     
