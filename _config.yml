@@ -19,8 +19,8 @@ locale                   : "en-US"
 title                    : "MSYAZWAN"
 title_separator          : "-"
 subtitle                 : "Data Science Portfolio"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Mohamad Syazwan"
+description              : "My data science and machine learning portfolio"
 url                      : "https://msyazwan.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -109,8 +109,8 @@ analytics:
 author:
   name             : "Mohamad Syazwan"
   avatar           : "/assets/images/bio-photo.png"
-  bio              : "I'm a Chemical Engineer, Excel Maniac, Love to Code, Data Science & Machine Learning Enthusiast, and I Love Coffee!"
-  location         : "Kuala Lumpur, Malaysia"
+  bio              : "A Chemical Engineer, Machine Learning Enthusiast, Excel Maniac and Coffee Lover!"
+  location         : "Kuala Lumpur"
   email            :
   links:
     - label: "Email"
@@ -128,9 +128,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/msyazwan/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/syazwanzubir"
 
 # Site Footer
 footer:
