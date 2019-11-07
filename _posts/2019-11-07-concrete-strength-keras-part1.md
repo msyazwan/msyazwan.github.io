@@ -341,7 +341,7 @@ plt.show()
 ```
 
 
-![png](\assets\images\output_16_0.png)
+![png](/assets/images/output_16_0.png)
 
 
 ```python
