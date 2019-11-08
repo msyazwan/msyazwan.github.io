@@ -9,6 +9,10 @@ author_profile: true
 
 <img src = "/assets/images/concrete-strength-keras/tf-keras.png" width = 500>
 
+<p align="center">
+  <img src = "/assets/images/concrete-strength-keras/tf-keras.png"/>
+</p>
+
 <strong>The dataset is about the compressive strength of different samples of concrete based on the volumes of the different ingredients that were used to make them.</strong>
     
 <strong>Ingredients include:</strong>
