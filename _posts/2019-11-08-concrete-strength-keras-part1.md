@@ -8,7 +8,7 @@ author_profile: true
 <h2><center> Building a Concrete Compressive Strength Model using Deep Learning Keras Library </center></h2>
 
 <p align="center">
-  <img src = "/assets/images/concrete-strength-keras/tf-keras.png" width = 500>
+  <img src = "/assets/images/concrete-strength-keras/tf-keras.png" width = 500 />
 </p>
 
 <strong>The dataset is about the compressive strength of different samples of concrete based on the volumes of the different ingredients that were used to make them.</strong>
