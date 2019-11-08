@@ -19,3 +19,8 @@ div.language-plaintext.highlighter-rouge {
     background: whitesmoke;
     color: black;
 }
+
+
+div.language-plaintext.highlighter-rouge:before {
+    content: "Sekolah Excel \00A9 ";
+}
