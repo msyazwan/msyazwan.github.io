@@ -4,7 +4,7 @@ In this part 1 notebook, we will build a regression model to predict the compres
 <h2><center> Building a Concrete Compressive Strength Model using Deep Learning Keras Library </center></h2>
 
 <p align = "center">
-  <img src = "/assets/images/concrete-strength-keras/tf-keras.png"/>
+  <img src = "/assets/images/post_1/tf-keras.png"/>
 </p>
 
 <strong>Concrete Ingredients:</strong>
@@ -361,7 +361,7 @@ plt.show()
 ```
 
 
-![png](/assets/images/concrete-strength-keras/out_post_1.png)
+![png](/assets/images/post_1/out_post_1.png)
 
 
 As our objective is mainly to build the model, we will just touch a few in this EDA (exploratory data analysis) section.
