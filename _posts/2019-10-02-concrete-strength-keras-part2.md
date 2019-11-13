@@ -9,7 +9,9 @@ In this part 2 notebook, we will increase all the network properties to achieve 
 
 <h2><center> Building a Concrete Compressive Strength Model using Deep Learning Keras Library </center></h2>
 
-<img src = "tf-keras.png" width = 500>
+<div align = "center">
+  <img src = "/assets/images/post_1/tf-keras.png"/>
+</div>
 
 
 ```python
