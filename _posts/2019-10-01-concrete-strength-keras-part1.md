@@ -1,13 +1,11 @@
 ---
-title: "Predicting Concrete Strength using Deep Learning: Part 1"
+title: "Predicting Concrete Strength: Part 1"
 category: [project]
 tags: [machine learning, keras, deep learning, regression, supervised learning]
 author_profile: true 
 ---
 
-In this part 1 notebook, we will build a regression model to predict the compressive strength of concrete based on its ingredients.
-
-The regression model will be built using Keras deep learning framework. The model will be run several times with different network properties such as number of epochs and hidden layer, to increase the model accuracy.
+In this part 1 notebook, we will build a regression model to predict the compressive strength of concrete based on its ingredients. The regression model will be built using Keras deep learning framework. The model will be run several times with different network properties such as number of epochs and hidden layer, to increase the model accuracy.
 
 <h2><center> Building a Concrete Compressive Strength Model using Deep Learning Keras Library </center></h2>
 
