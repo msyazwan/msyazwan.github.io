@@ -368,7 +368,7 @@ plt.show()
 ```
 
 
-![png](output_19_0.png)
+![png](/assets/images/post_1/out_post_1.png)
 
 
 As our objective is mainly to build the model, we will just touch a few in this EDA (exploratory data analysis) section.
