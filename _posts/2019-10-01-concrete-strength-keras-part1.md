@@ -9,9 +9,9 @@ In this part 1 notebook, we will build a regression model to predict the compres
 
 <h2><center> Building a Concrete Compressive Strength Model using Deep Learning Keras Library </center></h2>
 
-<p align = "center">
+<div align = "center">
   <img src = "/assets/images/post_1/tf-keras.png"/>
-</p>
+</div>
 
 <strong>Concrete Ingredients:</strong>
 <ol type="1">
