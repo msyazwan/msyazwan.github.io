@@ -10,3 +10,5 @@ If you have a boring task to fill in a lot of data from Excel to website form, y
 <div align = "center">
   <img src = "/assets/images/AutoForm.gif"/>
 </div>
+
+{% include figure image_path="/assets/images/AutoForm.gif" alt="Excel + Python + HTML" %}
