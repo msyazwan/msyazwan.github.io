@@ -1,5 +1,5 @@
 ---
-title: "Automating Filling Online Form using Python"
+title: "Work Automation: Python + Excel + HTML"
 category: [project]
 tags: [python, automation, selenium, openpyxl]
 author_profile: true
