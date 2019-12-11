@@ -1,5 +1,5 @@
 ---
-title           : "Predicting Concrete Strength using Keras Deep Learning: Part 2"
+title           : "Building Regression Model using Keras: Part 2"
 category        : [project]
 tags            : [machine learning, keras, deep learning, regression, supervised learning]
 author_profile  : true
