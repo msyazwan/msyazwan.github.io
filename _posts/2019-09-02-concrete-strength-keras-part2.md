@@ -1,8 +1,9 @@
 ---
-title: "Predicting Concrete Strength using Keras Deep Learning: Part 2"
-category: [project]
-tags: [machine learning, keras, deep learning, regression, supervised learning]
-author_profile: true
+title           : "Predicting Concrete Strength using Keras Deep Learning: Part 2"
+category        : [project]
+tags            : [machine learning, keras, deep learning, regression, supervised learning]
+author_profile  : true
+teaser          : "/assets/images/keras_deeplearning.jpg"
 ---
 In part 2, the network properties will again be increased to achieve a higher model accuracy. Later, the model will be saved, load and predict new concrete strength with new user-defined parameters.
 
