@@ -10,8 +10,6 @@ main:
     url: /
   - title: "Automation"
     url: /
-  - title: "About"
-    url: /
 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
