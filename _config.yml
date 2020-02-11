@@ -157,8 +157,6 @@ footer:
 include:
   - .htaccess
   - _pages
-  - /docs # Minimal Mistakes /docs
-#  - /test # Minimal Mistakes /test
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -183,7 +181,7 @@ exclude:
   - Rakefile
   - README
   - tmp
-  #- /docs # ignore Minimal Mistakes /docs
+  - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
 keep_files:
   - .git
@@ -278,7 +276,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: splash
+      layout: single
       author_profile: true
       read_time: true
       comments: # true
