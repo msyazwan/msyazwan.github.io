@@ -1,7 +1,18 @@
 # main links
 main:
+  - title: "Regression"
+    url: /
+  - title: "Classification"
+    url: /
+  - title: "Deep Learning"
+    url: /
+  - title: "Dashboard"
+    url: /
+  - title: "Automation"
+    url: /
   - title: "About"
     url: /
+
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
